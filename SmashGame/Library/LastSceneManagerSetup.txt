@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/smash.unity
+  isLoaded: 1
+  isActive: 1
